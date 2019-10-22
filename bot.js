@@ -28,4 +28,6 @@ list of 🐺 bot commands:
     }
 });
 
-client.login(auth.token);
+const token = Buffer.from(auth.token,'base64').toString('ascii');
+
+client.login(token);
