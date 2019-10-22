@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-cerberus",
+  "version": "1.0.0",
+  "description": "gatekeeper bot for mgtow forums",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloned-repos/discord-bot-cerberus.git"
+  },
+  "keywords": [],
+  "author": "jacob.bogers <Jacob.Bogers@doclerholding.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloned-repos/discord-bot-cerberus/issues"
+  },
+  "homepage": "https://github.com/cloned-repos/discord-bot-cerberus#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
