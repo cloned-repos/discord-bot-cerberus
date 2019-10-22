@@ -1,2 +1,2 @@
-# discord-bot-cerberus
-yet another discord bot
+# discord-bot-cerebus
+gatekeeper bot for mgtow forums
